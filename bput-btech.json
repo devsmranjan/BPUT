@@ -1,0 +1,2436 @@
+{
+	"CE": {
+		"fullName": "Civil Enginnering",
+		"semesters": [{
+				"semesterName": "First Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Enginnering/ Basic Mechanical Enginnering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "English Communication Skills",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Enginnering Workshop/ Enginnering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Second Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Enginnering/ Basic Mechanical Enginnering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical and Electronics Enginnering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Enginnering Workshop/ Enginnering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Third Semester",
+				"subjects": [{
+						"subjectName": "Mechanics of Solids",
+						"credits": 4
+					},
+					{
+						"subjectName": "Fluid Mechanics and Hydraulics Machines",
+						"credits": 4
+					},
+					{
+						"subjectName": "Surveying",
+						"credits": 4
+					},
+					{
+						"subjectName": "Geotechnical Enginnering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Construction Technology",
+						"credits": 3
+					},
+					{
+						"subjectName": "Enginnering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Building Drawing Lab",
+						"credits": 1
+					},
+					{
+						"subjectName": "Concrete Technology(Honors)/ Mechanics of Solids (Minor)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Mechanics of Solids (Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fourth Semester",
+				"subjects": [{
+						"subjectName": "Purely Applied Mathematics for Specific Branch of Enginnering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Structural Analysis-I & Material Testing Lab",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advanced Mechanics of Solids",
+						"credits": 4
+					},
+					{
+						"subjectName": "Highway & Traffic Enginnering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Design of Concrete Structure",
+						"credits": 4
+					},
+					{
+						"subjectName": "Enginnering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Skill Project and Hands on",
+						"credits": 3
+					},
+					{
+						"subjectName": "Advance Surveying/ Environmental Pollution and Management/ Optimization in Civil Enginnering(Honors)",
+						"credits": 4
+					}, {
+						"subjectName": "Highway and Traffic Enginnering(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fifth Semester",
+				"subjects": [{
+						"subjectName": "Structural Analysis-II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Design of Steel Structures",
+						"credits": 4
+					},
+					{
+						"subjectName": "Water Supply & Sanitary Enginnering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Water Resource Engg./ Ground Water Hydrology/ Open Channel Flow",
+						"credits": 4
+					},
+					{
+						"subjectName": "OE",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab-I(Structural Engg. Lab/ Advanced Geotechnical Engineering Lab)",
+						"credits": 4
+					},
+					{
+						"subjectName": "GIS and Remote Sensing/ Quantity Surveying and Estimating(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Water Supply and Sanitary Engineering(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Sixth Semester",
+				"subjeects": [{
+						"subjectName": "Foundation Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Irrigation Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advanced Transportation Engg./ Pavement Design/ Mass Transit System",
+						"credits": 4
+					},
+					{
+						"subjectName": "Structural Dynamics/ FEM/ Prestressed Concrete",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Science & Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Industrial Lecture",
+						"credits": 1
+					},
+					{
+						"subjectName": "Presentation Skill & Skill for Interview",
+						"credits": 3
+					},
+					{
+						"subjectName": "Applications of Matrix Method in Structural Analysis/ Earthquake Engg./ Town Planning/ High rise Structures(Honors)",
+						"credits": 4
+					}, {
+						"subjectName": "Irrigation Engg.(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Seventh Semester",
+				"subjects": [{
+						"subjectName": "Nano Science & Bio Technology",
+						"credits": 4
+					},
+					{
+						"subjectName": "Architecture & Town planning/ Ground Improvement Technique/ Soil Dynamics & Machine Foundation",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Impact Assessment/ Industrial Waste Management & Disposal/ Quantity Surveying & Estimating",
+						"credits": 4
+					},
+					{
+						"subjectName": "Soft Computing/ Other subjects",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab-II/ Project",
+						"credits": 4
+					},
+					{
+						"subjectName": "Projects on Internet of Things",
+						"credits": 4
+					},
+					{
+						"subjectName": "Water Resources System and Management/ Advanced Design of Reinforced Concrete Structures/ Computational Fluid Dynamics(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Design of Concrete Structures(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Eighth Semester",
+				"subjeects": [{
+					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project",
+					"credits": 20
+				}]
+			}
+		]
+	},
+
+	"CSE": {
+		"fullName": "Computer Science and Enginnering",
+		"semesters": [{
+				"semesterName": "First Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "English Communication Skills",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+
+			},
+			{
+				"semesterName": "Second Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical and Electronics Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+
+			},
+			{
+				"semesterName": "Third Semester",
+				"subjects": [{
+						"subjectName": "Switching Theory and Logic Design",
+						"credits": 4
+					},
+					{
+						"subjectName": "Object Oriented Programming using JAVA",
+						"credits": 4
+					},
+					{
+						"subjectName": "System Programming",
+						"credits": 4
+					},
+					{
+						"subjectName": "Software Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Discrete Structures",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Artificial Intelligence (Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Software Engineering (Minor)",
+						"credits": 4
+					}
+				]
+
+			},
+			{
+				"semesterName": "Fourth Semester",
+				"subjects": [{
+						"subjectName": "Purely Applied Mathematics for Specific Branch of Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Computer Organization & Architecture",
+						"credits": 4
+					},
+					{
+						"subjectName": "Design & Analysis of Algorithms",
+						"credits": 4
+					},
+					{
+						"subjectName": "Database System",
+						"credits": 4
+					},
+					{
+						"subjectName": "Formal Language & Automata Theory",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "*Skill Project and Hands on",
+						"credits": 4
+					},
+					{
+						"subjectName": "Data Analytics (Hons)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Database System/ Computer Organization & Architecture (Minor)",
+						"credits": 4
+					}
+				]
+
+			},
+			{
+				"semesterName": "Fifth Semester",
+				"subjects": [{
+						"subjectName": "Operating System",
+						"credits": 4
+					},
+					{
+						"subjectName": "Computer Graphics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advanced Computer Architecture",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advanced JAVA Programming/ Internet of Things/ Software Testing/ Parallel Algorithms",
+						"credits": 4
+					},
+					{
+						"subjectName": "Cloud Computing/ Datamining& Data Warehousing/ Computer Design/ Information Retrieval",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab - I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Real Time Systems (Hons.)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Operating Systems (Minor)",
+						"credits": 4
+					}
+				]
+
+			},
+			{
+				"semesterName": "Sixth Semester",
+				"subjects": [{
+						"subjectName": "Computer Network & Data Communication",
+						"credits": 4
+					},
+					{
+						"subjectName": "Compiler Design",
+						"credits": 4
+					},
+					{
+						"subjectName": "Digital Image Processing/Digital Signal Processing/Neural language Processing/Wireless Sensor Networks",
+						"credits": 4
+					},
+					{
+						"subjectName": "Internet & Web Technology/Pattern Recognition/Machine Learning/Advanced Operating System",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Science & Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Industrial Lecture #",
+						"credits": 1
+					},
+					{
+						"subjectName": "Presentation Skill & Skill for Interview # #",
+						"credits": 3
+					},
+					{
+						"subjectName": "Embedded Systems (Hons.)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Computer Network and Data Communication (Minor)",
+						"credits": 4
+					}
+				]
+
+			},
+			{
+				"semesterName": "Seventh Semester",
+				"subjects": [{
+						"subjectName": "Nano Science & Bio Technology",
+						"credits": 4
+					},
+					{
+						"subjectName": "Cryptography & Network Security/Robotics/ VLSI Design/Social Networks",
+						"credits": 4
+					},
+					{
+						"subjectName": "Mobile Computing/ Software Project Management/ Algorithm for Bioinformatics/Expert Systems",
+						"credits": 4
+					},
+					{
+						"subjectName": "Soft Computing */ Other subjects",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab-II/ Project",
+						"credits": 4
+					},
+					{
+						"subjectName": "Projects on Internet of Things",
+						"credits": 4
+					},
+					{
+						"subjectName": "Computational Number Theory (Hons.)",
+						"credits": 4
+					}
+				]
+
+			},
+			{
+				"semesterName": "Eighth Semester",
+				"subjects": [{
+						"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project",
+						"credits": 20
+					}
+
+				]
+
+			}
+		]
+	},
+
+	"IT": {
+		"fullName": "Information Technology",
+		"semesters": [{
+				"semesterName": "First Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "English Communication Skills",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+
+			},
+			{
+				"semesterName": "Second Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical and Electronics Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+
+			},
+			{
+				"semesterName": "Third Semester",
+				"subjects": [{
+						"subjectName": "Switching Theory and Logic Design",
+						"credits": 4
+					},
+					{
+						"subjectName": "Object Oriented Programming using JAVA",
+						"credits": 4
+					},
+					{
+						"subjectName": "System Programming",
+						"credits": 4
+					},
+					{
+						"subjectName": "Software Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Discrete Structures",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Artificial Intelligence (Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Software Engineering (Minor)",
+						"credits": 4
+					}
+				]
+
+			},
+			{
+				"semesterName": "Fourth Semester",
+				"subjects": [{
+						"subjectName": "Purely Applied Mathematics for Specific Branch of Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Computer Organization & Architecture",
+						"credits": 4
+					},
+					{
+						"subjectName": "Design & Analysis of Algorithms",
+						"credits": 4
+					},
+					{
+						"subjectName": "Database System",
+						"credits": 4
+					},
+					{
+						"subjectName": "Formal Language & Automata Theory",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "*Skill Project and Hands on",
+						"credits": 4
+					},
+					{
+						"subjectName": "Data Analytics (Hons)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Database System/ Computer Organization & Architecture (Minor)",
+						"credits": 4
+					}
+				]
+
+			},
+			{
+				"semesterName": "Fifth Semester",
+				"subjects": [{
+						"subjectName": "Operating System",
+						"credits": 4
+					},
+					{
+						"subjectName": "Computer Graphics/Internet of Things/Software testing/Parallel Algorithms",
+						"credits": 4
+					},
+					{
+						"subjectName": "E-Commerce & ERP",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advanced JAVA Programming",
+						"credits": 4
+					},
+					{
+						"subjectName": "Cloud Computing/ Datamining& Data Warehousing/ Computer Design /Information Retrieval",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab - I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Real Time Systems (Hons.)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Operating Systems (Minor)",
+						"credits": 4
+					}
+				]
+
+			},
+			{
+				"semesterName": "Sixth Semester",
+				"subjects": [{
+						"subjectName": "Computer Network & Data Communication",
+						"credits": 4
+					},
+					{
+						"subjectName": "Compiler Design/ Digital Image Processing/ Requirement Engg./Natural Language Processing/Wireless Sensor Networks/Big Data Analytics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Pattern Recognition/ Machine Learning/Object Oriented Software Engg.",
+						"credits": 4
+					},
+					{
+						"subjectName": "Internet & Web Technology",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Science & Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Industrial Lecture #",
+						"credits": 1
+					},
+					{
+						"subjectName": "Presentation Skill & Skill for Interview # #",
+						"credits": 3
+					},
+					{
+						"subjectName": "Embedded Systems (Hons.)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Computer Network and Data Communication (Minor)",
+						"credits": 4
+					}
+				]
+
+			},
+			{
+				"semesterName": "Seventh Semester",
+				"subjects": [{
+						"subjectName": "Nano Science & Bio Technology",
+						"credits": 4
+					},
+					{
+						"subjectName": "Cryptography & Network Security/ Usability Engg./ Service Oriented Architecture/Social Networks",
+						"credits": 4
+					},
+					{
+						"subjectName": "Mobile Computing/ Software Project Management/ Algorithm for Bioinformatics/Expert Systems",
+						"credits": 4
+					},
+					{
+						"subjectName": "Soft Computing */ Other subjects",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab-II/ Project",
+						"credits": 4
+					},
+					{
+						"subjectName": "Projects on Internet of Things",
+						"credits": 4
+					},
+					{
+						"subjectName": "Computational Number Theory (Hons.)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advanced Operating System (Minor)",
+						"credits": 4
+					}
+				]
+
+			},
+			{
+				"semesterName": "Eighth Semester",
+				"subjects": [{
+						"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project",
+						"credits": 20
+					}
+
+				]
+
+			}
+		]
+	},
+
+	"EE": {
+		"fullName": "Electrical Engineering",
+		"semesters": [{
+				"semesterName": "First Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "English Communication Skills",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+
+			},
+			{
+				"semesterName": "Second Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical and Electronics Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+
+			},
+			{
+				"semesterName": "Third Semester",
+				"subjects": [{
+						"subjectName": "Network Theory",
+						"credits": 4
+					},
+					{
+						"subjectName": "Analog Electronics Circuit",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical Machines I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical & Electronics Measurements",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electromagnetic Theory",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical Engineering Material(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical & Electronics Measurements(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fourth Semester",
+				"subjects": [{
+						"subjectName": "Purely Applied Mathematics for Specific Branch of Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical Mechanices II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Control System Engg I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Digital Electronics Circuit",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical Power Transmission & Distribution",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Skill Project and Hands on",
+						"credits": 3
+					},
+					{
+						"subjectName": "Sensors and Transducers (E & I)(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical Power Transmission & Distribution/ Control System Engg-I(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fifth Semester",
+				"subjects": [{
+						"subjectName": "Power Electronics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Micropocessor & Microcontroller",
+						"credits": 4
+					},
+					{
+						"subjectName": "Digital Signal Processing",
+						"credits": 4
+					},
+					{
+						"subjectName": "Renewable Energy Systems/ Optoelectronics Device & Instrumentation",
+						"credits": 4
+					},
+					{
+						"subjectName": "Optimization in Engg",
+						"credits": 4
+					},
+					{
+						"subject": "advance Lab-I(Advanced Electrical Computational Lab-I)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical Machine Design/ Industrial Process Control and Dynamics/ Distributed Generation System Design(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical Machines-I/ Micropocessor and Microcontrollers/ Renewable Energy Systems(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Sixth Semester",
+				"subjects": [{
+						"subjectName": "Electrical Drives",
+						"credits": 4
+					},
+					{
+						"subjectName": "Power System and Operation & Control",
+						"credits": 4
+					},
+					{
+						"subjectName": "VLSI Design/ Generalization Theory pf Electrical Machines/ HVDC Transmission",
+						"credits": 4
+					},
+					{
+						"subjectName": "Control System Engg-II/ Advanced Digital Signal Processing",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Science & Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Industrial Lecture",
+						"credits": 1
+					},
+					{
+						"subjectName": "pressentation Skill & Skill for Interview ",
+						"credits": 3
+					},
+					{
+						"subjectName": "Special electromechanical in Devices/ Flexible AC Transmission Systems/ Utilization of Electrical Energy(Honors)/ Electrical Machines-II/ Control System-I(Minor)",
+						"credits": 4
+					}, {
+						"subjectName": "Electrical Machines-II/ Control System-I(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Seventh Semester",
+				"subjects": [{
+						"subjectName": "Nano Science and Bio Technology",
+						"credits": 4
+					},
+					{
+						"subjectName": "Switch Gear & Protective Devices/ Biomedical Instrumentation/ Mobile Communication",
+						"credits": 4
+					},
+					{
+						"subjectName": "Communication Engg./ Digital Image Processing/ Adoptive Control",
+						"credits": 4
+					},
+					{
+						"subjectName": "soft Computing/ Other subjects ",
+						"credits": 4
+					},
+					{
+						"subjectName": "advance Lab-II/ Project",
+						"credits": 4
+					},
+					{
+						"subjectName": "Projects on Internet of Things ",
+						"credits": 4
+					},
+					{
+						"subjectName": "Computational Number Theory(Honors)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Eighth Semester",
+				"subjects": [{
+					"subjectName": "Industrial cum Project/ Entrepreneurship Training cum Project Startup Training cum Project",
+					"credits": 20
+				}]
+			}
+		]
+	},
+
+	"EEE": {
+		"fullName": "Electronics and Electrical Engineering",
+		"semesters": [{
+				"semesterName": "First Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics-I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "English Communication Skills",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Second Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics-II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical and Electronics Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Third Semester",
+				"subjects": [{
+						"subjectName": "Network Theory",
+						"credits": 4
+					},
+					{
+						"subjectName": "Analog Electronics Circuit",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical Machines-I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical and Electronics Measurements",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electromagnetic Theory",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical Engineering Materials(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical and Electronics Measurements(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fourth Semester",
+				"subjects": [{
+						"subjectName": "Purely Applied Mathematics for Specific Branch of Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical Machines-II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Control System Engg-I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Digital Electronics Circuit",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical Power Transmission & Distribution",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Skill Project and Hands on",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electronics Devices and Modeling/ Sensors and Transducers(Honors)",
+						"credits": 4
+					}, {
+						"subjectName": "Transmission & Distribution System/ Control System Engg-I(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fifth Semester",
+				"subjects": [{
+						"subjectName": "Power Electronics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Micropocessor & Microcontroller",
+						"credits": 4
+					},
+					{
+						"subjectName": "Digital Signal Processing",
+						"credits": 4
+					},
+					{
+						"subjectName": "Renewable Energy System/ Advanced Electronics Circuit",
+						"credits": 4
+					},
+					{
+						"subjectName": "Optimization in Engg.",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab-I(Advanced Circuit Simulation Lab-I)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical Machine Design/ Antennas and Wave Propagation(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Electrical Machines-I(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Sixth Semester",
+				"subjects": [{
+						"subjectName": "Communication Engg.",
+						"credits": 4
+					},
+					{
+						"subjectName": "Power System Operation & Control",
+						"credits": 4
+					},
+					{
+						"subjectName": "Robotics & Robot Applications/ Optoelectronics Devices & Instrumentation/ Electrical Drives",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Science & Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Industrial Lecture",
+						"credits": 1
+					},
+					{
+						"subjectName": "Presentation Skill & Skill for Interview",
+						"credits": 3
+					},
+					{
+						"subjectName": "Industrial Automation & Control VLSI Design/ Flexible AC Transmission Systems/ Advanced Communication Systems",
+						"credits": 4
+					},
+					{
+						"subjectName": "Special Electro-Mechanical in Devices/ Digital Communication Technology/ Radar and TV Engg/ Utilization of Electrical Energy(Honors)",
+						"credits": 4
+					}, {
+						"subjectName": "Electrical Machines-II(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Seventh Semester",
+				"subjects": [{
+						"subjectName": "Nano Science & Bio Technology",
+						"credits": 4
+					},
+					{
+						"subjectName": "Control System Engg-II/ Advanced Power Electronics/ Digital Image Processing",
+						"credits": 4
+					},
+					{
+						"subjectName": "Mobile Communication/ Adaptive Signal Processing/ Mechatronics/ Switch Gear & Protective Devices",
+						"credits": 4
+					},
+					{
+						"subjectName": "Soft Computing/ Other Subjects",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab-II/ Project",
+						"credits": 4
+					},
+					{
+						"subjectName": "Projects on Internet of Things",
+						"credits": 4
+					},
+					{
+						"subjectName": "High Voltage Engg./ Biomedical Instrumentation/ SMART Grid/ PLC and SCADA/ Microwave Engg.(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Power Station Engg. and Economy(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Eighth Semester",
+				"Subjects": [{
+					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project",
+					"credits": 20
+				}]
+			}
+		]
+	},
+
+	"ECE": {
+		"fullName": "Electronics and Communication Engineering",
+		"semesters": [{
+				"semesterName": "First Semester",
+				"Subjects": [{
+						"subjectName": "Applied Mathematics-I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "English Communication Skills",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Second Semester",
+				"Subjects": [{
+						"subjectName": "Applied Mathematics-II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical and Electronics Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Third Semester",
+				"subjects": [{
+						"subjectName": "Network Theory",
+						"credits": 4
+					},
+					{
+						"subjectName": "Analog Electronics Circuit",
+						"credits": 4
+					},
+					{
+						"subjectName": "Signal and System",
+						"credits": 4
+					},
+					{
+						"subjectName": "Digital Electronics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Semiconductor Devices",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Probability & Random Processes(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Analog Electronics Circuit(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fourth Semester",
+				"Subjects": [{
+					"subjectName": "Purely Applied Mathematics for specific Branch of Engineering",
+					"credits": 3
+				}]
+			},
+			{
+				"semesterName": "Fifth Semester",
+				"Subjects": [{
+					"subjectName": "Control Systems",
+					"credits": 4
+				}]
+			},
+			{
+				"semesterName": "Sixth Semester",
+				"Subjects": [{
+					"subjectName": "Digital Communication",
+					"credits": 4
+				}]
+			},
+			{
+				"semesterName": "Seventh Semester",
+				"subjects": [{
+					"subjectName": "Nano Science & Bio Technology",
+					"credits": 4
+				}]
+			},
+			{
+				"semesterName": "Eighth Semester",
+				"Subjects": [{
+					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project",
+					"credits": 20
+				}]
+			}
+		]
+	},
+
+	"ETE": {
+		"fullName": "Electronics and Telecommunication Engineering",
+		"semesters": [{
+				"semesterName": "First Semester",
+				"Subjects": [{
+						"subjectName": "Applied Mathematics-I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Mechanical Engineering/ Basic Civil Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "English Communication Skills",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming Interview C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Second Semester",
+				"Subjects": [{
+						"subjectName": "Applied Mathematics-II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical and Electronics Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Third Semester",
+				"Subjects": [{
+						"subjectName": "Network Theory",
+						"credits": 4
+					},
+					{
+						"subjectName": "Analog Electronics Circuit",
+						"credits": 4
+					},
+					{
+						"subjectName": "Signal & Systems",
+						"credits": 4
+					},
+					{
+						"subjectName": "Digital Electronics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Semiconductor Devices",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Probability & Random Processes(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Analog Electronics Circuit(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fourth Semester",
+				"Subjects": [{
+					"subjectName": "Purely Applied Mathematics for specific Branch of Engineering",
+					"credits": 3
+				}]
+			},
+			{
+				"semesterName": "Fifth Semester",
+				"Subjects": [{
+					"subjectName": "Control Systems",
+					"credits": 4
+				}]
+			},
+			{
+				"semesterName": "Sixth Semester",
+				"Subjects": [{
+					"subjectName": "Digital Communication",
+					"credits": 4
+				}]
+			},
+			{
+				"semesterName": "Seventh Semester",
+				"Subjects": [{
+					"subjectName": "Nano Science and Bio Technology",
+					"credits": 4
+				}]
+			},
+			{
+				"semesterName": "Eighth Semester",
+				"Subjects": [{
+					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project",
+					"credits": 20
+				}]
+			}
+		]
+	},
+
+	"AE": {
+		"fullName": "Aeronautical Engineering",
+		"semesters": [{
+				"semesterName": "First Semester",
+				"Subjects": [{
+						"subjectName": "Applied Mathematics I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "English Communication Skills",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Second Semester",
+				"Subjects": [{
+						"subjectName": "Applied Mathematics-II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical and Electronics Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Third Semester",
+				"subjects": [{
+						"subjectName": "Fluid Mechanics & Heat Flow",
+						"credits": 4
+					},
+					{
+						"subjectName": "Aero Thermodynamics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Strength of Materials",
+						"credits": 4
+					},
+					{
+						"subjectName": "Element of Aeronautics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Avionics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 4
+					},
+					{
+						"subjectName": "Aircraft Rules & Regulation Car I & II/ Airport Planning & Management/ Flight Schedule & Operation(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Element of Aeronautics(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fourth Semester",
+				"Subjects": [{
+						"subjectName": "purely Applied Mathematics for specific Branch of Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Aerodynamics-I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Aircraft Materials & Production",
+						"credits": 4
+					},
+					{
+						"subjectName": "Propulsion-I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Skill Project and Hands on",
+						"credits": 3
+					},
+					{
+						"subjectName": "Airframe Repair & Maintenance/ Boundary Layer Theory/ Theory of Plates & Shells(Honors)",
+						"credits": 4
+					}, {
+						"subjectName": "Aerodynamics-I(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fifth Semester",
+				"Subjects": [{
+						"subjectName": "Aircraft Structures-II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Aerodynamics-II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Aircraft Performance",
+						"credits": 4
+					},
+					{
+						"subjectName": "Finite Element Method/ Experiment Stress Analysis/ Computational Fluid Dynamics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Total Quality Management/ Production Management/ Operational Research",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab-I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Fatique Fracture Mechanics/ Finite Element Method/ Computational Fluid Dynamics(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Propulsion-I(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Sixth Semester",
+				"Subjects": [{
+						"subjectName": "Aircraft Stability & Control",
+						"credits": 4
+					},
+					{
+						"subjectName": "Propulsion-II",
+						"credits": 4
+					},
+					{
+						"subjectName": "composite Material & Structure/ Non-Destroctive Testing/ High Tempreture Materials",
+						"credits": 4
+					},
+					{
+						"subjectName": "Aircraft General Engineering & Maintenance/ Flight Schedule & Operation/ Airport Planning & Management",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Science & Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Industrial Lecture",
+						"credits": 1
+					},
+					{
+						"subjectName": "Presentation Skill & Skill for Interview",
+						"credits": 3
+					},
+					{
+						"subjectName": "Aeroengine Repair & Maintenance/ Non-Destroctive Testing/ Industrial Aerodynamics(Honors)",
+						"credits": 4
+					}, {
+						"subjectName": "Aircraft Structure-I(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Seventh Semester",
+				"Subjects": [{
+						"subjectName": "Nano Science & Bio Technology",
+						"credits": 4
+					},
+					{
+						"subjectName": "Wind Tunnle Techniques/ Experimental Fluid Dynamics/ Industrial Aerodynamics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Combustion/ Space Mechanics/ Helicopter Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "soft Computing/ Other subjects",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab-II/ Project",
+						"credits": 4
+					},
+					{
+						"subjectName": "Projects on Internet of Things",
+						"credits": 4
+					},
+					{
+						"subjectName": "Hypersonic Aerodynamics/ Satellite Technology/ Helicopter Engineering/ Rocket & Missiles(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Eighth Semester",
+				"Subjects": [{
+					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project",
+					"credits": 20
+				}]
+			}
+		]
+	},
+
+	"AME": {
+		"fullName": "Automobile Engineering",
+		"semesters": [{
+				"semesterName": "First Semester",
+				"Subjects": [{
+						"subjectName": "Applied Mathematics I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "English Communication Skills",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Second Semester",
+				"Subjects": [{
+						"subjectName": "Applied Mathematics II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical and Electronics Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+			{
+				"semesterName": "Third Semester",
+				"subjects": [{
+						"subjectName": "Mechanics of Solids",
+						"credits": 4
+					},
+					{
+						"subjectName": "Introduction to Physical Metallurgy & Engineering Materials",
+						"credits": 3
+					},
+					{
+						"subjectName": "Fluid Mechanics & Hydraulics Machines",
+						"credits": 4
+					},
+					{
+						"subjectName": "Automative Thermodynamics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Manufacturing Processes",
+						"credits": 5
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Applied Mathematics(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Automative Engines(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fourth Semester",
+				"Subjects": [{
+						"subjectName": "Purely Applied Mathematics for specific Branch of Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Automative Engines",
+						"credits": 4
+					},
+					{
+						"subjectName": "Automative chassis",
+						"credits": 4
+					},
+					{
+						"subjectName": "Kinematics & Dynamics of Machines",
+						"credits": 4
+					},
+					{
+						"subjectName": "Automative Transmission Systems",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Skill Project and Hands on",
+						"credits": 3
+					},
+					{
+						"subjectName": "Ststistical Quality Control/ Surface Engg./ Rapid Manufacturing Process(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Troubleshooting, Servicing & Maintenance of Automobiles(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fifth Semester",
+				"Subjects": [{
+						"subjectName": "Design of Machine Components",
+						"credits": 4
+					},
+					{
+						"subjectName": "Vehcile Body Engg.",
+						"credits": 4
+					},
+					{
+						"subjectName": "Mechanism & Machines",
+						"credits": 4
+					},
+					{
+						"subjectName": "Two & Three Wheelers/ Automative Test Instrumentation/ Advance Production Process for Automotive Components",
+						"credits": 4
+					},
+					{
+						"subjectName": "Energy Conversation Techniques/ Marketing Management/ C++ & Object Oriented Programming/ Internet & Web Technology/ Analog & Digital ELectronics/ Digital Signal Processing/ Micropocessors",
+						"credits": 4
+					},
+					{
+						"subjectName": "advance Lab-I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Off Road Vehcile/ Mechatronics/ Smart Materials for Automotive Application(Honors)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Automotive Pollution & Controls(Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Sixth Semester",
+				"subjects": [{
+						"subjectName": "Vehcile Dynamics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Vehcile Design",
+						"credits": 4
+					},
+					{
+						"subjectName": "Automotive Electrical & Electronics/ Conversion Thermodynamics & Heat Transfer/ Automotive Air Conditioning",
+						"credits": 4
+					},
+					{
+						"subjectName": "Automotive Pollution & Control/Automotive Safety/Fluid Power & Control",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Science & Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Industrial Lecture ",
+						"credits": 1
+					},
+					{
+						"subjectName": "Presentation Skill & Skill for Interview",
+						"credits": 3
+					},
+					{
+						"subjectName": "Automotive Aerodynamics/Manufacturing Systems & Automation/Transport Management (Hons.)/ Automotive Transmission Systems (Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Seventh Semester",
+				"Subjects": [{
+						"subjectName": "Nano Science & Bio Technology",
+						"credits": 4
+					},
+					{
+						"subjectName": "Sensor & Transducers/CAD & CAM/Noise ,Vibration & Harshness",
+						"credits": 4
+					},
+					{
+						"subjectName": "Trouble Shooting Servicing & Maintenance of Automobile/Simulation, Modelling& Control/Fuels & Lubricants",
+						"credits": 4
+					},
+					{
+						"subjectName": "Soft Computing */ Other subjects",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab-II/ Project",
+						"credits": 4
+					},
+					{
+						"subjectName": "Projects on Internet of Things",
+						"credits": 4
+					},
+					{
+						"subjectName": "New Generation & Hybrid Vehicles/Heat Transfer/Advanced Mechanics of Solids (Hons.)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Fuels & Lubricants (Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Eighth Semester",
+				"subjects": [{
+					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project / Stratup Training cum Project",
+					"credits": 20
+				}]
+			}
+		]
+	},
+
+	"BTE": {
+		"fullName": "Biomedical Engineering",
+		"semesters": [{
+
+				"semesterName": "First Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "English Communication Skills",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+
+			},
+			{
+				"semesterName": "Second Semester",
+				"subjects": [{
+						"subjectName": "Applied Mathematics II",
+						"credits": 4
+					},
+					{
+						"subjectName": "Applied Physics/ Applied Chemistry",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Electrical and Electronics Engineering",
+						"credits": 4
+					},
+					{
+						"subjectName": "Programming in C/ Data Structure Through C",
+						"credits": 2
+					},
+					{
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
+						"credits": 3
+					},
+					{
+						"subjectName": "Co-Curricular",
+						"credits": 1
+					}
+				]
+			},
+
+			{
+
+				"semesterName": "Third Semester",
+				"subjects": [{
+						"subjectName": "Human Anatomy",
+						"credits": 4
+					},
+					{
+						"subjectName": "Network Theory",
+						"credits": 4
+					},
+					{
+						"subjectName": "Analog Electronics Circuit",
+						"credits": 4
+					},
+					{
+						"subjectName": "Analog Electronics Circuit",
+						"credits": 4
+					},
+					{
+						"subjectName": "Basic Clinical Science",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 3
+					},
+					{
+						"subjectName": "Engineering Economics/ Organizational Behavior",
+						"credits": 4
+					},
+					{
+						"subjectName": "Engineering Physiology (Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Fifth Semester",
+				"subjects": [{
+						"subjectName": "Biomaterials",
+						"credits": 4
+					},
+					{
+						"subjectName": "Elements of Biomedical Instrumentation",
+						"credits": 4
+					},
+					{
+						"subjectName": "Microprocessors",
+						"credits": 4
+					},
+					{
+						"subjectName": "Transducers & Instrumentations/Digital Signal Processing/VLSI Design",
+						"credits": 4
+					},
+					{
+						"subjectName": "Operative System/Computer Network & Data Communication",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab-I",
+						"credits": 4
+					},
+					{
+						"subjectName": "Bio Heat and mass Transfer/Tissue Engineering (Hons.)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Sixth Semester",
+				"subjects": [{
+						"subjectName": "Biomedical signal Processing",
+						"credits": 4
+					},
+					{
+						"subjectName": "Biomechanics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Computer Graphics/Communication Engg.",
+						"credits": 4
+					},
+					{
+						"subjectName": "Biomedical Equipment/LASER &Fibre Optics in Medicine/Telemedicine",
+						"credits": 4
+					},
+					{
+						"subjectName": "Environmental Science & Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Industrial Lecture ",
+						"credits": 1
+					},
+					{
+						"subjectName": "Presentation Skill & Skill for Interview ",
+						"credits": 3
+					},
+					{
+						"subjectName": "Computational Methods in Bio Medical Engg./Biological Simulation and Modeling (Hons.)",
+						"credits": 4
+					}, {
+						"subjectName": "Bio-medical Signal Processing (Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": "Seventh Semester",
+				"subjects": [{
+						"subjectName": "Nano Science & Bio Technology",
+						"credits": 4
+					},
+					{
+						"subjectName": "Medical Imaging Techniques/Artificial Organs & RehabilitationEngg./Physiolog ical System Modeling",
+						"credits": 4
+					},
+					{
+						"subjectName": "Hospital Management/Bioethics/Biost atistics",
+						"credits": 4
+					},
+					{
+						"subjectName": "Soft Computing */ Other subjects",
+						"credits": 4
+					},
+					{
+						"subjectName": "Advance Lab-II/ Project",
+						"credits": 4
+					},
+					{
+						"subjectName": "Projects on Internet of Things",
+						"credits": 4
+					},
+					{
+						"subjectName": "Immuno Technology/Prosthetic Design (Hons.)",
+						"credits": 4
+					},
+					{
+						"subjectName": "Organs and Rehabilitation Engg. (Minor)",
+						"credits": 4
+					}
+				]
+			},
+			{
+				"semesterName": " Eight Semester",
+				"subjects": [{
+					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project / Startup Training cum Project",
+					"credits": 20
+				}]
+			}
+		]
+	}
+
+}
