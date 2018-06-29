@@ -1,6 +1,6 @@
 {
 	"CE": {
-		"fullName": "Civil Enginnering",
+		"fullName": "Civil Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
@@ -12,7 +12,7 @@
 						"credits": 4
 					},
 					{
-						"subjectName": "Basic Civil Enginnering/ Basic Mechanical Enginnering",
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
 						"credits": 4
 					},
 					{
@@ -28,7 +28,7 @@
 						"credits": 2
 					},
 					{
-						"subjectName": "Enginnering Workshop/ Enginnering Graphics",
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
 						"credits": 3
 					},
 					{
@@ -48,7 +48,7 @@
 						"credits": 4
 					},
 					{
-						"subjectName": "Basic Civil Enginnering/ Basic Mechanical Enginnering",
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
 						"credits": 4
 					},
 					{
@@ -56,7 +56,7 @@
 						"credits": 3
 					},
 					{
-						"subjectName": "Electrical and Electronics Enginnering",
+						"subjectName": "Electrical and Electronics Engineering",
 						"credits": 4
 					},
 					{
@@ -64,7 +64,7 @@
 						"credits": 2
 					},
 					{
-						"subjectName": "Enginnering Workshop/ Enginnering Graphics",
+						"subjectName": "Engineering Workshop/ Engineering Graphics",
 						"credits": 3
 					},
 					{
@@ -88,7 +88,7 @@
 						"credits": 4
 					},
 					{
-						"subjectName": "Geotechnical Enginnering",
+						"subjectName": "Geotechnical Engineering",
 						"credits": 4
 					},
 					{
@@ -96,7 +96,7 @@
 						"credits": 3
 					},
 					{
-						"subjectName": "Enginnering Economics/ Organizational Behavior",
+						"subjectName": "Engineering Economics/ Organizational Behavior",
 						"credits": 3
 					},
 					{
@@ -116,7 +116,7 @@
 			{
 				"semesterName": "Fourth Semester",
 				"subjects": [{
-						"subjectName": "Purely Applied Mathematics for Specific Branch of Enginnering",
+						"subjectName": "Purely Applied Mathematics for Specific Branch of Engineering",
 						"credits": 3
 					},
 					{
@@ -128,7 +128,7 @@
 						"credits": 4
 					},
 					{
-						"subjectName": "Highway & Traffic Enginnering",
+						"subjectName": "Highway & Traffic Engineering",
 						"credits": 4
 					},
 					{
@@ -136,7 +136,7 @@
 						"credits": 4
 					},
 					{
-						"subjectName": "Enginnering Economics/ Organizational Behavior",
+						"subjectName": "Engineering Economics/ Organizational Behavior",
 						"credits": 3
 					},
 					{
@@ -144,10 +144,10 @@
 						"credits": 3
 					},
 					{
-						"subjectName": "Advance Surveying/ Environmental Pollution and Management/ Optimization in Civil Enginnering(Honors)",
+						"subjectName": "Advance Surveying/ Environmental Pollution and Management/ Optimization in Civil Engineering(Honors)",
 						"credits": 4
 					}, {
-						"subjectName": "Highway and Traffic Enginnering(Minor)",
+						"subjectName": "Highway and Traffic Engineering(Minor)",
 						"credits": 4
 					}
 				]
@@ -163,7 +163,7 @@
 						"credits": 4
 					},
 					{
-						"subjectName": "Water Supply & Sanitary Enginnering",
+						"subjectName": "Water Supply & Sanitary Engineering",
 						"credits": 4
 					},
 					{
@@ -274,7 +274,7 @@
 	},
 
 	"CSE": {
-		"fullName": "Computer Science and Enginnering",
+		"fullName": "Computer Science and Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
