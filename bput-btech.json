@@ -1,6 +1,5 @@
-{
-	"CE": {
-		"fullName": "Civil Engineering",
+[{
+		"branchName": "Civil Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
@@ -22,7 +21,7 @@
 					{
 						"subjectName": "English Communication Skills",
 						"credits": 4
-					},
+					},s
 					{
 						"subjectName": "Programming in C/ Data Structure Through C",
 						"credits": 2
@@ -272,9 +271,8 @@
 			}
 		]
 	},
-
-	"CSE": {
-		"fullName": "Computer Science and Engineering",
+	{
+		"branchName": "Computer Science and Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
@@ -551,8 +549,8 @@
 		]
 	},
 
-	"IT": {
-		"fullName": "Information Technology",
+	{
+		"branchName": "Information Technology",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
@@ -833,8 +831,8 @@
 		]
 	},
 
-	"EE": {
-		"fullName": "Electrical Engineering",
+	{
+		"branchName": "Electrical Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
@@ -1102,8 +1100,8 @@
 		]
 	},
 
-	"EEE": {
-		"fullName": "Electronics and Electrical Engineering",
+	{
+		"branchName": "Electronics and Electrical Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
@@ -1372,8 +1370,8 @@
 		]
 	},
 
-	"ECE": {
-		"fullName": "Electronics and Communication Engineering",
+	{
+		"branchName": "Electronics and Communication Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"Subjects": [{
@@ -1520,8 +1518,8 @@
 		]
 	},
 
-	"ETE": {
-		"fullName": "Electronics and Telecommunication Engineering",
+	{
+		"branchName": "Electronics and Telecommunication Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"Subjects": [{
@@ -1668,8 +1666,8 @@
 		]
 	},
 
-	"AE": {
-		"fullName": "Aeronautical Engineering",
+	{
+		"branchName": "Aeronautical Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"Subjects": [{
@@ -1934,8 +1932,8 @@
 		]
 	},
 
-	"AME": {
-		"fullName": "Automobile Engineering",
+	{
+		"branchName": "Automobile Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"Subjects": [{
@@ -2202,8 +2200,8 @@
 		]
 	},
 
-	"BTE": {
-		"fullName": "Biomedical Engineering",
+	{
+		"branchName": "Biomedical Engineering",
 		"semesters": [{
 
 				"semesterName": "First Semester",
@@ -2432,5 +2430,4 @@
 			}
 		]
 	}
-
-}
+]
