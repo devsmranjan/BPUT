@@ -1362,7 +1362,7 @@
 			},
 			{
 				"semesterName": "Eighth Semester",
-				"Subjects": [{
+				"subjects": [{
 					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project",
 					"credits": 20
 				}]
@@ -1374,7 +1374,7 @@
 		"branchName": "Electronics and Communication Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Applied Mathematics-I",
 						"credits": 4
 					},
@@ -1410,7 +1410,7 @@
 			},
 			{
 				"semesterName": "Second Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Applied Mathematics-II",
 						"credits": 4
 					},
@@ -1482,21 +1482,21 @@
 			},
 			{
 				"semesterName": "Fourth Semester",
-				"Subjects": [{
+				"subjects": [{
 					"subjectName": "Purely Applied Mathematics for specific Branch of Engineering",
 					"credits": 3
 				}]
 			},
 			{
 				"semesterName": "Fifth Semester",
-				"Subjects": [{
+				"subjects": [{
 					"subjectName": "Control Systems",
 					"credits": 4
 				}]
 			},
 			{
 				"semesterName": "Sixth Semester",
-				"Subjects": [{
+				"subjects": [{
 					"subjectName": "Digital Communication",
 					"credits": 4
 				}]
@@ -1510,7 +1510,7 @@
 			},
 			{
 				"semesterName": "Eighth Semester",
-				"Subjects": [{
+				"subjects": [{
 					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project",
 					"credits": 20
 				}]
@@ -1522,7 +1522,7 @@
 		"branchName": "Electronics and Telecommunication Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Applied Mathematics-I",
 						"credits": 4
 					},
@@ -1558,7 +1558,7 @@
 			},
 			{
 				"semesterName": "Second Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Applied Mathematics-II",
 						"credits": 4
 					},
@@ -1594,7 +1594,7 @@
 			},
 			{
 				"semesterName": "Third Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Network Theory",
 						"credits": 4
 					},
@@ -1630,35 +1630,35 @@
 			},
 			{
 				"semesterName": "Fourth Semester",
-				"Subjects": [{
+				"subjects": [{
 					"subjectName": "Purely Applied Mathematics for specific Branch of Engineering",
 					"credits": 3
 				}]
 			},
 			{
 				"semesterName": "Fifth Semester",
-				"Subjects": [{
+				"subjects": [{
 					"subjectName": "Control Systems",
 					"credits": 4
 				}]
 			},
 			{
 				"semesterName": "Sixth Semester",
-				"Subjects": [{
+				"subjects": [{
 					"subjectName": "Digital Communication",
 					"credits": 4
 				}]
 			},
 			{
 				"semesterName": "Seventh Semester",
-				"Subjects": [{
+				"subjects": [{
 					"subjectName": "Nano Science and Bio Technology",
 					"credits": 4
 				}]
 			},
 			{
 				"semesterName": "Eighth Semester",
-				"Subjects": [{
+				"subjects": [{
 					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project",
 					"credits": 20
 				}]
@@ -1670,7 +1670,7 @@
 		"branchName": "Aeronautical Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Applied Mathematics I",
 						"credits": 4
 					},
@@ -1706,7 +1706,7 @@
 			},
 			{
 				"semesterName": "Second Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Applied Mathematics-II",
 						"credits": 4
 					},
@@ -1778,7 +1778,7 @@
 			},
 			{
 				"semesterName": "Fourth Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "purely Applied Mathematics for specific Branch of Engineering",
 						"credits": 3
 					},
@@ -1813,7 +1813,7 @@
 			},
 			{
 				"semesterName": "Fifth Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Aircraft Structures-II",
 						"credits": 4
 					},
@@ -1849,7 +1849,7 @@
 			},
 			{
 				"semesterName": "Sixth Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Aircraft Stability & Control",
 						"credits": 4
 					},
@@ -1888,7 +1888,7 @@
 			},
 			{
 				"semesterName": "Seventh Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Nano Science & Bio Technology",
 						"credits": 4
 					},
@@ -1924,7 +1924,7 @@
 			},
 			{
 				"semesterName": "Eighth Semester",
-				"Subjects": [{
+				"subjects": [{
 					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project/ Startup Training cum Project",
 					"credits": 20
 				}]
@@ -1936,7 +1936,7 @@
 		"branchName": "Automobile Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Applied Mathematics I",
 						"credits": 4
 					},
@@ -1972,7 +1972,7 @@
 			},
 			{
 				"semesterName": "Second Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Applied Mathematics II",
 						"credits": 4
 					},
@@ -2044,7 +2044,7 @@
 			},
 			{
 				"semesterName": "Fourth Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Purely Applied Mathematics for specific Branch of Engineering",
 						"credits": 3
 					},
@@ -2084,7 +2084,7 @@
 			},
 			{
 				"semesterName": "Fifth Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Design of Machine Components",
 						"credits": 4
 					},
@@ -2156,7 +2156,7 @@
 			},
 			{
 				"semesterName": "Seventh Semester",
-				"Subjects": [{
+				"subjects": [{
 						"subjectName": "Nano Science & Bio Technology",
 						"credits": 4
 					},
