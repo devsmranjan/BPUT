@@ -1,74 +1,63 @@
-[{
+[
+	{
 		"branchName": "Civil Engineering",
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics I",
-						"credits": 4
+						"subjectName": "Mathematics I",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/ Chemistry",
 						"credits": 4
+					},
+                             {
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "English Communication Skills",
-						"credits": 4
+						"subjectName": "Communicative English",
+						"credits": 3
 					},
-					{
-						"subjectName": "Programming in C/ Data Structure Through C",
+                    {
+						"subjectName": "Engineering Graphics & Design Lab/ Workshop",
 						"credits": 2
-					},
-					{
-						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
 					}
 				]
 			},
 			{
 				"semesterName": "Second Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics II",
-						"credits": 4
+						"subjectName": "Mathematics II",
+						"credits": 3
+					},
+                    {
+						"subjectName": "Engineering Mechanics",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/  Chemistry",
 						"credits": 4
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "Electrical and Electronics Engineering",
-						"credits": 4
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
-						"subjectName": "Programming in C/ Data Structure Through C",
-						"credits": 2
+						"subjectName": "Programming Language",
+						"credits": 5
 					},
 					{
 						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
+						"credits": 2
 					}
 				]
 			},
@@ -276,76 +265,62 @@
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics I",
-						"credits": 4
+						"subjectName": "Mathematics I",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/ Chemistry",
 						"credits": 4
+					},
+                             {
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "English Communication Skills",
-						"credits": 4
+						"subjectName": "Communicative English",
+						"credits": 3
 					},
-					{
-						"subjectName": "Programming in C/ Data Structure Through C",
+                    {
+						"subjectName": "Engineering Graphics & Design Lab/ Workshop",
 						"credits": 2
-					},
-					{
-						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
 					}
 				]
-
 			},
 			{
 				"semesterName": "Second Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics II",
-						"credits": 4
+						"subjectName": "Mathematics II",
+						"credits": 3
+					},
+                    {
+						"subjectName": "Engineering Mechanics",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/  Chemistry",
 						"credits": 4
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "Electrical and Electronics Engineering",
-						"credits": 4
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
-						"subjectName": "Programming in C/ Data Structure Through C",
-						"credits": 2
+						"subjectName": "Programming Language",
+						"credits": 5
 					},
 					{
 						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
+						"credits": 2
 					}
 				]
-
 			},
 			{
 				"semesterName": "Third Semester",
@@ -411,7 +386,7 @@
 						"credits": 3
 					},
 					{
-						"subjectName": "*Skill Project and Hands on",
+						"subjectName": "Skill Project and Hands on",
 						"credits": 4
 					},
 					{
@@ -481,16 +456,12 @@
 						"credits": 4
 					},
 					{
-						"subjectName": "Environmental Science & Engineering",
+						"subjectName": "Business Communication & Skill for Interview",
 						"credits": 3
 					},
 					{
 						"subjectName": "Industrial Lecture #",
 						"credits": 1
-					},
-					{
-						"subjectName": "Presentation Skill & Skill for Interview # #",
-						"credits": 3
 					},
 					{
 						"subjectName": "Embedded Systems (Hons.)",
@@ -506,31 +477,35 @@
 			{
 				"semesterName": "Seventh Semester",
 				"subjects": [{
-						"subjectName": "Nano Science & Bio Technology",
+						"subjectName": "Internet of Things(IOT)/Nano Science & Bio Technology/Intellectual property Rights(IPR)",
+						"credits": 3
+					},
+					{
+						"subjectName": "Cryptography & Network Security/Robotics/ VLSI Design",
+						"credits": 3
+					},
+					{
+						"subjectName": "Mobile Computing/ Software Project Management/Social Networks",
+						"credits": 3
+					},
+					{
+						"subjectName": "Soft Computing/ Introduction to management & Function/Marketing Management & function",
+						"credits": 3
+					},
+					{
+						"subjectName": "Minor Project",
 						"credits": 4
 					},
 					{
-						"subjectName": "Cryptography & Network Security/Robotics/ VLSI Design/Social Networks",
-						"credits": 4
-					},
-					{
-						"subjectName": "Mobile Computing/ Software Project Management/ Algorithm for Bioinformatics/Expert Systems",
-						"credits": 4
-					},
-					{
-						"subjectName": "Soft Computing */ Other subjects",
-						"credits": 4
-					},
-					{
-						"subjectName": "Advance Lab-II/ Project",
-						"credits": 4
-					},
-					{
-						"subjectName": "Projects on Internet of Things",
-						"credits": 4
+						"subjectName": "Seminar",
+						"credits": 2
 					},
 					{
 						"subjectName": "Computational Number Theory (Hons.)",
+						"credits": 4
+					},
+                    {   
+						"subjectName": "Cryptography & Network Security",
 						"credits": 4
 					}
 				]
@@ -554,76 +529,62 @@
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics I",
-						"credits": 4
+						"subjectName": "Mathematics I",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/ Chemistry",
 						"credits": 4
+					},
+                             {
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "English Communication Skills",
-						"credits": 4
+						"subjectName": "Communicative English",
+						"credits": 3
 					},
-					{
-						"subjectName": "Programming in C/ Data Structure Through C",
+                    {
+						"subjectName": "Engineering Graphics & Design Lab/ Workshop",
 						"credits": 2
-					},
-					{
-						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
 					}
 				]
-
 			},
 			{
 				"semesterName": "Second Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics II",
-						"credits": 4
+						"subjectName": "Mathematics II",
+						"credits": 3
+					},
+                    {
+						"subjectName": "Engineering Mechanics",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/  Chemistry",
 						"credits": 4
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "Electrical and Electronics Engineering",
-						"credits": 4
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
-						"subjectName": "Programming in C/ Data Structure Through C",
-						"credits": 2
+						"subjectName": "Programming Language",
+						"credits": 5
 					},
 					{
 						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
+						"credits": 2
 					}
 				]
-
 			},
 			{
 				"semesterName": "Third Semester",
@@ -836,76 +797,62 @@
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics I",
-						"credits": 4
+						"subjectName": "Mathematics I",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/ Chemistry",
 						"credits": 4
+					},
+                             {
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "English Communication Skills",
-						"credits": 4
+						"subjectName": "Communicative English",
+						"credits": 3
 					},
-					{
-						"subjectName": "Programming in C/ Data Structure Through C",
+                    {
+						"subjectName": "Engineering Graphics & Design Lab/ Workshop",
 						"credits": 2
-					},
-					{
-						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
 					}
 				]
-
 			},
 			{
 				"semesterName": "Second Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics II",
-						"credits": 4
+						"subjectName": "Mathematics II",
+						"credits": 3
+					},
+                    {
+						"subjectName": "Engineering Mechanics",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/  Chemistry",
 						"credits": 4
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "Electrical and Electronics Engineering",
-						"credits": 4
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
-						"subjectName": "Programming in C/ Data Structure Through C",
-						"credits": 2
+						"subjectName": "Programming Language",
+						"credits": 5
 					},
 					{
 						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
+						"credits": 2
 					}
 				]
-
 			},
 			{
 				"semesterName": "Third Semester",
@@ -1105,72 +1052,60 @@
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics-I",
-						"credits": 4
+						"subjectName": "Mathematics I",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/ Chemistry",
 						"credits": 4
+					},
+                             {
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "English Communication Skills",
-						"credits": 4
+						"subjectName": "Communicative English",
+						"credits": 3
 					},
-					{
-						"subjectName": "Programming in C/ Data Structure Through C",
+                    {
+						"subjectName": "Engineering Graphics & Design Lab/ Workshop",
 						"credits": 2
-					},
-					{
-						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
 					}
 				]
 			},
 			{
 				"semesterName": "Second Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics-II",
-						"credits": 4
+						"subjectName": "Mathematics II",
+						"credits": 3
+					},
+                    {
+						"subjectName": "Engineering Mechanics",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/  Chemistry",
 						"credits": 4
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "Electrical and Electronics Engineering",
-						"credits": 4
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
-						"subjectName": "Programming in C/ Data Structure Through C",
-						"credits": 2
+						"subjectName": "Programming Language",
+						"credits": 5
 					},
 					{
 						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
+						"credits": 2
 					}
 				]
 			},
@@ -1375,72 +1310,60 @@
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics-I",
-						"credits": 4
+						"subjectName": "Mathematics I",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/ Chemistry",
 						"credits": 4
+					},
+                             {
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "English Communication Skills",
-						"credits": 4
+						"subjectName": "Communicative English",
+						"credits": 3
 					},
-					{
-						"subjectName": "Programming in C/ Data Structure Through C",
+                    {
+						"subjectName": "Engineering Graphics & Design Lab/ Workshop",
 						"credits": 2
-					},
-					{
-						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
 					}
 				]
 			},
 			{
 				"semesterName": "Second Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics-II",
-						"credits": 4
+						"subjectName": "Mathematics II",
+						"credits": 3
+					},
+                    {
+						"subjectName": "Engineering Mechanics",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/  Chemistry",
 						"credits": 4
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "Electrical and Electronics Engineering",
-						"credits": 4
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
-						"subjectName": "Programming in C/ Data Structure Through C",
-						"credits": 2
+						"subjectName": "Programming Language",
+						"credits": 5
 					},
 					{
 						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
+						"credits": 2
 					}
 				]
 			},
@@ -1523,72 +1446,60 @@
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics-I",
-						"credits": 4
-					},
-					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
-						"credits": 4
-					},
-					{
-						"subjectName": "Basic Mechanical Engineering/ Basic Civil Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health care/ Professional Ethics",
+						"subjectName": "Mathematics I",
 						"credits": 3
 					},
 					{
-						"subjectName": "English Communication Skills",
+						"subjectName": "Physics/ Chemistry",
 						"credits": 4
 					},
+                             {
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
+					},
 					{
-						"subjectName": "Programming Interview C/ Data Structure Through C",
+						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
+						"credits": 3
+					},
+					{
+						"subjectName": "Communicative English",
+						"credits": 3
+					},
+                    {
+						"subjectName": "Engineering Graphics & Design Lab/ Workshop",
 						"credits": 2
-					},
-					{
-						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
 					}
 				]
 			},
 			{
 				"semesterName": "Second Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics-II",
-						"credits": 4
+						"subjectName": "Mathematics II",
+						"credits": 3
+					},
+                    {
+						"subjectName": "Engineering Mechanics",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/  Chemistry",
 						"credits": 4
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "Electrical and Electronics Engineering",
-						"credits": 4
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
-						"subjectName": "Programming in C/ Data Structure Through C",
-						"credits": 2
+						"subjectName": "Programming Language",
+						"credits": 5
 					},
 					{
 						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
+						"credits": 2
 					}
 				]
 			},
@@ -1671,72 +1582,60 @@
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics I",
-						"credits": 4
+						"subjectName": "Mathematics I",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/ Chemistry",
 						"credits": 4
+					},
+                             {
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "English Communication Skills",
-						"credits": 4
+						"subjectName": "Communicative English",
+						"credits": 3
 					},
-					{
-						"subjectName": "Programming in C/ Data Structure Through C",
+                    {
+						"subjectName": "Engineering Graphics & Design Lab/ Workshop",
 						"credits": 2
-					},
-					{
-						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
 					}
 				]
 			},
 			{
 				"semesterName": "Second Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics-II",
-						"credits": 4
+						"subjectName": "Mathematics II",
+						"credits": 3
+					},
+                    {
+						"subjectName": "Engineering Mechanics",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/  Chemistry",
 						"credits": 4
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "Electrical and Electronics Engineering",
-						"credits": 4
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
-						"subjectName": "Programming in C/ Data Structure Through C",
-						"credits": 2
+						"subjectName": "Programming Language",
+						"credits": 5
 					},
 					{
 						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
+						"credits": 2
 					}
 				]
 			},
@@ -1937,72 +1836,60 @@
 		"semesters": [{
 				"semesterName": "First Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics I",
-						"credits": 4
+						"subjectName": "Mathematics I",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/ Chemistry",
 						"credits": 4
+					},
+                             {
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "English Communication Skills",
-						"credits": 4
+						"subjectName": "Communicative English",
+						"credits": 3
 					},
-					{
-						"subjectName": "Programming in C/ Data Structure Through C",
+                    {
+						"subjectName": "Engineering Graphics & Design Lab/ Workshop",
 						"credits": 2
-					},
-					{
-						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
 					}
 				]
 			},
 			{
 				"semesterName": "Second Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics II",
-						"credits": 4
+						"subjectName": "Mathematics II",
+						"credits": 3
+					},
+                    {
+						"subjectName": "Engineering Mechanics",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/  Chemistry",
 						"credits": 4
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "Electrical and Electronics Engineering",
-						"credits": 4
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
-						"subjectName": "Programming in C/ Data Structure Through C",
-						"credits": 2
+						"subjectName": "Programming Language",
+						"credits": 5
 					},
 					{
 						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
+						"credits": 2
 					}
 				]
 			},
@@ -2206,77 +2093,63 @@
 
 				"semesterName": "First Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics I",
-						"credits": 4
+						"subjectName": "Mathematics I",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/ Chemistry",
 						"credits": 4
+					},
+                             {
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "English Communication Skills",
-						"credits": 4
+						"subjectName": "Communicative English",
+						"credits": 3
 					},
-					{
-						"subjectName": "Programming in C/ Data Structure Through C",
+                    {
+						"subjectName": "Engineering Graphics & Design Lab/ Workshop",
 						"credits": 2
-					},
-					{
-						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
 					}
 				]
-
 			},
 			{
 				"semesterName": "Second Semester",
 				"subjects": [{
-						"subjectName": "Applied Mathematics II",
-						"credits": 4
+						"subjectName": "Mathematics II",
+						"credits": 3
+					},
+                    {
+						"subjectName": "Engineering Mechanics",
+						"credits": 3
 					},
 					{
-						"subjectName": "Applied Physics/ Applied Chemistry",
+						"subjectName": "Physics/  Chemistry",
 						"credits": 4
 					},
 					{
 						"subjectName": "Basic Civil Engineering/ Basic Mechanical Engineering",
-						"credits": 4
-					},
-					{
-						"subjectName": "Environmental Studies and Health Care/ Professional Ethics",
 						"credits": 3
 					},
 					{
-						"subjectName": "Electrical and Electronics Engineering",
-						"credits": 4
+						"subjectName": "Basic Electrical Engineering/ Basic Electronics Engineering",
+						"credits": 3
 					},
 					{
-						"subjectName": "Programming in C/ Data Structure Through C",
-						"credits": 2
+						"subjectName": "Programming Language",
+						"credits": 5
 					},
 					{
 						"subjectName": "Engineering Workshop/ Engineering Graphics",
-						"credits": 3
-					},
-					{
-						"subjectName": "Co-Curricular",
-						"credits": 1
+						"credits": 2
 					}
 				]
 			},
-
 			{
 
 				"semesterName": "Third Semester",
@@ -2422,7 +2295,7 @@
 				]
 			},
 			{
-				"semesterName": " Eight Semester",
+				"semesterName": "Eight Semester",
 				"subjects": [{
 					"subjectName": "Industrial Training cum Project/ Entrepreneurship Training cum Project / Startup Training cum Project",
 					"credits": 20
